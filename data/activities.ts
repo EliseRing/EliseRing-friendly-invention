@@ -1,5 +1,6 @@
-import babySwimmingImage from 'figma:asset/54d07e44c7205f83e0c3bb5e19c41a1239ecff20.png';
-import babySingingImage from 'figma:asset/9b7880cd478905c0eb7ef08004310c61e094c0ac.png';
+// Images from Unsplash
+const babySwimmingImage = 'https://images.unsplash.com/photo-1664416501183-0534b661c690?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxiYWJ5JTIwc3dpbW1pbmclMjBwb29sfGVufDF8fHx8MTc2MjMzMDAwNnww&ixlib=rb-4.1.0&q=80&w=1080';
+const babySingingImage = 'https://images.unsplash.com/flagged/photo-1568777567165-aaaa23be84a1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxiYWJ5JTIwbXVzaWMlMjBjbGFzcyUyMHNpbmdpbmd8ZW58MXx8fHwxNzYyMzMwMDA2fDA&ixlib=rb-4.1.0&q=80&w=1080';
 
 export const activities = [
   {
